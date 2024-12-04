@@ -21,25 +21,6 @@ This Python project generates a daily newsletter using the latest news headlines
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/newsletter-generator.git
-   cd newsletter-generator
-   ```
-
-2. Install dependencies:
-   ```bash
-    pip install REQUIREMENT_HERE
-   ```
-
-3. Create an account for the following APIs:
-   - [NewsAPI](https://newsapi.org/) to fetch news articles.
-   - [OpenAI](https://openai.com/) for summarization and newsletter generation.
-
----
-
 ## Setup
 
 1. Open the `script.py` file and replace the placeholders with your credentials:
