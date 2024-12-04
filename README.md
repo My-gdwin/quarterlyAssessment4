@@ -23,7 +23,7 @@ This Python project generates a daily newsletter using the latest news headlines
 
 ## Setup
 
-1. Open the `script.py` file and replace the placeholders with your credentials:
+1. Open the `main.py` file and replace the placeholders with your credentials:
    ```python
    newsapi_key = "your_newsapi_key"
    openai_key = "your_openai_key"
